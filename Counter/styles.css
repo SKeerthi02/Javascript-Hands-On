@@ -1,0 +1,14 @@
+main {
+    min-height: 100vh;
+    display: grid !important;
+    place-items: center;
+}
+.container{
+    text-align: center;
+}
+#number{
+    font-size: 6em;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
