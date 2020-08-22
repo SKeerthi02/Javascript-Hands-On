@@ -9,6 +9,6 @@ main {
 #number{
     font-size: 6em;
     font-weight: bold;
-    font-family: Helvetica;
+    font-family: var(--ff-secondary);;
 }
 
